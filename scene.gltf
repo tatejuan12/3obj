@@ -170,12 +170,6 @@
         -45.162380175458466,
         1
       ],
-      "name": "SpotLight",
-      "extensions": {
-        "KHR_lights_punctual": {
-          "light": 0
-        }
-      }
     }
   ],
   "bufferViews": [
