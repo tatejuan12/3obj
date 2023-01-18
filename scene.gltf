@@ -12,8 +12,7 @@
         2,
         3,
         4,
-        5,
-        6
+        5
       ]
     }
   ],
@@ -150,26 +149,6 @@
       ],
       "name": "Box",
       "mesh": 5
-    },
-    {
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        5,
-        14.384751266067138,
-        -45.162380175458466,
-        1
-      ],
     }
   ],
   "bufferViews": [
@@ -851,28 +830,5 @@
         }
       ]
     }
-  ],
-  "extensions": {
-    "KHR_lights_punctual": {
-      "lights": [
-        {
-          "name": "SpotLight",
-          "color": [
-            1,
-            1,
-            1
-          ],
-          "intensity": 1,
-          "type": "spot",
-          "spot": {
-            "innerConeAngle": 0.3141592653589793,
-            "outerConeAngle": 0.3141592653589793
-          }
-        }
-      ]
-    }
-  },
-  "extensionsUsed": [
-    "KHR_lights_punctual"
   ]
 }
